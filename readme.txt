@@ -5,4 +5,5 @@ Git tracks changes of files
 <<<<<<< HEAD
 =======
 Creating a new branch is quick AND simple.
+merge test.
 >>>>>>> feature1
